@@ -15,9 +15,9 @@ Installation using pip (a Python package manager)*:
 $ pip install pyTelegramBotAPI
 
 ### Installation from source (requires git):
-$ git clone https://github.com/kinguy8/profitItemTeleBot.git
-$ cd profitItemTeleBot
-$ python main.py
++ $ git clone https://github.com/kinguy8/profitItemTeleBot.git
++ $ cd profitItemTeleBot
++ $ python main.py
 
 ### Available commands for interacting with the bot:
 > ##### Send `/start` to start a dialogue
