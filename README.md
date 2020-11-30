@@ -8,13 +8,18 @@ In a directory `bot/files` create a file "token.txt" and insert token by key "TO
 Sample: "TOKEN=your_token".
 Also you can check info about message sender in file log
 
-## Available Scripts
+### Requirements
+This API is tested with Python Python 3.6-3.9 and Pypy 3. There are two ways to install the library:
 
-In the project directory, you can run:
+Installation using pip (a Python package manager)*:
+$ pip install pyTelegramBotAPI
 
-### `python main.py`
+### Installation from source (requires git):
+$ git clone https://github.com/kinguy8/profitItemTeleBot.git
+$ cd profitItemTeleBot
+$ python main.py
 
-Done, available commands for interacting with the bot:
+### Available commands for interacting with the bot:
 > ##### Send `/start` to start a dialogue
 > ##### Send `/info` for detailed information about the bot
 > ##### Send `your some text` for find you item 
