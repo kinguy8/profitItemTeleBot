@@ -11,8 +11,8 @@ Also you can check info about message sender in file log
 ### Requirements
 This API is tested with Python Python 3.6-3.9 and Pypy 3. There are two ways to install the library:
 
-Installation using pip (a Python package manager)*:
-$ pip install pyTelegramBotAPI
+Installation using pip (a Python package manager):
+`$ pip install pyTelegramBotAPI`
 
 ### Installation from source (requires git):
 + $ git clone https://github.com/kinguy8/profitItemTeleBot.git
