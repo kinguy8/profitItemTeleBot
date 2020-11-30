@@ -1,6 +1,6 @@
 # ProfitItemBot 
 
-A bot designed to find Dota 2 items, with the lowest prices in relation to the Steam trading platform
+A bot designed to search for a Dota 2 item at a price lower than on the Steam marketplace. Also returns the cost of the item and the difference.
 
 ### Notes
 
@@ -17,5 +17,5 @@ In the project directory, you can run:
 Done, available commands for interacting with the bot:
 > ##### Send `/start` to start a dialogue
 > ##### Send `/info` for detailed information about the bot
-> ##### Send `your some text` 
+> ##### Send `your some text` for find you item 
 
