@@ -15,7 +15,7 @@ In the project directory, you can run:
 ### `python main.py`
 
 Done, available commands for interacting with the bot:
-##### Send `/start` to start a dialogue
-##### Send `/info` for detailed information about the bot
-##### Send `your some text` 
+> ##### Send `/start` to start a dialogue
+> ##### Send `/info` for detailed information about the bot
+> ##### Send `your some text` 
 
